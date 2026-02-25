@@ -5,7 +5,7 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
-import Layout from "./layout/Layout";
+import Layout from "./Layout/Layout";
 import Home from "./Pages/Home";
 import RecordingsPage from "./Pages/Recordings";
 import LiveLocationPage from "./Pages/LiveLocationPage";
